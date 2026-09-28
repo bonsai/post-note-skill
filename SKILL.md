@@ -5,7 +5,7 @@
 ## 前提
 
 - note.com には**公開 API が無い**。投稿はブラウザの編集画面への貼り付けによる（人間 or ブラウザ自動化）。
-- 記事本体は Markdown で管理（例: `~/wiki/raw/<MM>/`、`~/repo/zenn-content/articles/`）。
+- 記事本体は Markdown で管理（例: `~/wiki/raw/<MM>/`）。
 
 ## 使い方
 
